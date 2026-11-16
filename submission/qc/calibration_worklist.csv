@@ -1,0 +1,997 @@
+﻿case_id,image,issue_type,annotators,suggested_rules,next_action,status
+C001,img_001.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C002,img_001.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C003,img_001.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C004,img_001.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C005,img_001.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C006,img_001.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C007,img_001.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C008,img_001.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C009,img_001.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C010,img_001.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C011,img_001.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C012,img_001.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C013,img_001.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C014,img_001.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C015,img_001.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C016,img_001.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C017,img_001.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C018,img_001.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C019,img_001.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C020,img_002.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C021,img_002.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C022,img_002.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C023,img_002.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C024,img_002.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C025,img_002.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C026,img_002.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C027,img_002.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C028,img_002.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C029,img_002.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C030,img_002.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C031,img_002.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C032,img_002.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C033,img_002.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C034,img_002.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C035,img_002.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C036,img_002.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C037,img_002.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C038,img_002.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C039,img_002.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C040,img_002.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C041,img_002.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C042,img_002.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C043,img_002.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C044,img_002.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C045,img_002.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C046,img_002.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C047,img_003.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C048,img_003.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C049,img_003.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C050,img_003.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C051,img_003.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C052,img_003.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C053,img_003.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C054,img_003.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C055,img_003.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C056,img_003.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C057,img_003.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C058,img_003.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C059,img_003.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C060,img_003.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C061,img_003.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C062,img_003.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C063,img_003.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C064,img_003.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C065,img_003.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C066,img_003.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C067,img_003.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C068,img_003.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C069,img_003.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C070,img_003.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C071,img_003.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C072,img_003.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C073,img_003.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C074,img_003.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C075,img_003.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C076,img_003.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C077,img_003.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C078,img_003.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C079,img_003.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C080,img_003.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C081,img_003.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C082,img_003.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C083,img_003.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C084,img_003.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C085,img_003.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C086,img_003.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C087,img_003.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C088,img_003.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C089,img_003.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C090,img_003.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C091,img_003.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C092,img_003.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C093,img_003.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C094,img_003.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C095,img_003.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C096,img_003.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C097,img_003.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C098,img_003.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C099,img_003.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C100,img_003.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C101,img_003.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C102,img_003.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C103,img_003.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C104,img_003.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C105,img_003.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C106,img_003.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C107,img_003.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C108,img_003.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C109,img_004.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C110,img_004.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C111,img_004.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C112,img_004.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C113,img_004.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C114,img_004.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C115,img_004.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C116,img_004.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C117,img_005.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C118,img_005.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C119,img_005.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C120,img_005.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C121,img_005.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C122,img_005.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C123,img_005.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C124,img_005.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C125,img_005.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C126,img_005.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C127,img_005.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C128,img_005.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C129,img_005.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C130,img_005.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C131,img_005.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C132,img_005.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C133,img_005.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C134,img_005.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C135,img_005.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C136,img_005.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C137,img_005.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C138,img_005.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C139,img_005.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C140,img_005.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C141,img_005.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C142,img_005.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C143,img_005.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C144,img_005.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C145,img_005.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C146,img_005.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C147,img_005.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C148,img_005.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C149,img_005.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C150,img_005.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C151,img_006.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C152,img_006.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C153,img_006.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C154,img_006.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C155,img_006.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C156,img_006.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C157,img_006.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C158,img_006.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C159,img_006.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C160,img_006.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C161,img_006.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C162,img_006.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C163,img_006.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C164,img_006.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C165,img_006.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C166,img_006.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C167,img_006.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C168,img_006.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C169,img_006.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C170,img_006.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C171,img_006.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C172,img_006.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C173,img_006.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C174,img_006.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C175,img_006.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C176,img_006.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C177,img_006.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C178,img_006.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C179,img_006.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C180,img_006.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C181,img_006.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C182,img_006.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C183,img_006.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C184,img_006.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C185,img_006.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C186,img_006.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C187,img_006.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C188,img_006.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C189,img_006.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C190,img_006.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C191,img_006.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C192,img_006.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C193,img_006.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C194,img_006.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C195,img_006.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C196,img_006.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C197,img_006.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C198,img_006.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C199,img_006.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C200,img_006.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C201,img_006.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C202,img_006.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C203,img_006.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C204,img_006.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C205,img_006.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C206,img_006.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C207,img_006.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C208,img_006.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C209,img_006.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C210,img_006.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C211,img_006.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C212,img_006.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C213,img_006.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C214,img_006.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C215,img_006.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C216,img_006.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C217,img_006.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C218,img_006.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C219,img_007.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C220,img_007.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C221,img_007.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C222,img_007.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C223,img_008.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C224,img_008.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C225,img_008.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C226,img_008.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C227,img_008.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C228,img_008.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C229,img_008.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C230,img_008.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C231,img_008.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C232,img_008.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C233,img_008.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C234,img_008.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C235,img_008.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C236,img_008.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C237,img_008.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C238,img_008.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C239,img_008.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C240,img_008.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C241,img_008.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C242,img_008.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C243,img_008.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C244,img_008.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C245,img_008.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C246,img_008.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C247,img_008.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C248,img_008.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C249,img_008.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C250,img_008.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C251,img_008.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C252,img_008.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C253,img_008.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C254,img_008.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C255,img_008.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C256,img_008.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C257,img_008.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C258,img_008.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C259,img_008.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C260,img_008.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C261,img_008.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C262,img_008.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C263,img_008.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C264,img_008.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C265,img_008.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C266,img_008.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C267,img_008.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C268,img_008.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C269,img_008.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C270,img_008.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C271,img_008.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C272,img_008.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C273,img_008.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C274,img_008.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C275,img_009.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C276,img_009.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C277,img_009.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C278,img_009.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C279,img_009.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C280,img_009.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C281,img_009.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C282,img_009.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C283,img_009.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C284,img_009.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C285,img_009.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C286,img_009.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C287,img_009.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C288,img_009.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C289,img_009.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C290,img_009.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C291,img_009.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C292,img_009.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C293,img_010.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C294,img_010.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C295,img_010.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C296,img_010.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C297,img_010.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C298,img_010.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C299,img_010.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C300,img_010.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C301,img_010.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C302,img_010.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C303,img_010.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C304,img_010.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C305,img_010.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C306,img_010.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C307,img_010.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C308,img_010.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C309,img_010.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C310,img_010.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C311,img_010.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C312,img_010.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C313,img_010.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C314,img_011.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C315,img_011.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C316,img_011.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C317,img_011.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C318,img_011.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C319,img_011.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C320,img_011.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C321,img_011.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C322,img_011.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C323,img_011.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C324,img_011.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C325,img_011.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C326,img_011.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C327,img_011.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C328,img_011.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C329,img_011.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C330,img_011.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C331,img_011.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C332,img_011.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C333,img_011.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C334,img_011.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C335,img_011.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C336,img_011.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C337,img_011.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C338,img_011.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C339,img_011.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C340,img_011.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C341,img_011.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C342,img_011.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C343,img_011.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C344,img_011.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C345,img_011.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C346,img_011.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C347,img_011.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C348,img_011.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C349,img_011.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C350,img_011.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C351,img_011.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C352,img_012.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C353,img_012.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C354,img_012.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C355,img_012.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C356,img_012.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C357,img_012.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C358,img_012.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C359,img_012.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C360,img_012.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C361,img_012.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C362,img_013.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C363,img_013.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C364,img_013.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C365,img_013.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C366,img_013.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C367,img_013.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C368,img_013.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C369,img_013.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C370,img_013.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C371,img_013.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C372,img_014.jpg,bo_sot_thua,101|102,R-17,Xác nhận người/xe nhòe img_014 thật sự đủ điều kiện; chốt có/không và biên.,pending
+C373,img_014.jpg,bo_sot_thua,101|102,R-17,Xác nhận người/xe nhòe img_014 thật sự đủ điều kiện; chốt có/không và biên.,pending
+C374,img_014.jpg,bo_sot_thua,101|102,R-17,Xác nhận người/xe nhòe img_014 thật sự đủ điều kiện; chốt có/không và biên.,pending
+C375,img_014.jpg,bo_sot_thua,101|102,R-17,Xác nhận người/xe nhòe img_014 thật sự đủ điều kiện; chốt có/không và biên.,pending
+C376,img_014.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C377,img_014.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C378,img_014.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C379,img_014.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C380,img_014.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C381,img_014.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C382,img_014.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C383,img_014.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C384,img_014.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C385,img_014.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C386,img_014.jpg,iou_thap,101|102,R-05,"So biên box với ảnh gốc, nhất là mũi car img_019; xác nhận box modal.",pending
+C387,img_014.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C388,img_015.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C389,img_015.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C390,img_015.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C391,img_015.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C392,img_015.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C393,img_015.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C394,img_015.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C395,img_015.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C396,img_015.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C397,img_015.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C398,img_015.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C399,img_015.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C400,img_016.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C401,img_016.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C402,img_016.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C403,img_016.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C404,img_016.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C405,img_016.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C406,img_016.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C407,img_016.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C408,img_016.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C409,img_016.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C410,img_016.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C411,img_016.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C412,img_016.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C413,img_016.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C414,img_016.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C415,img_016.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C416,img_016.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C417,img_016.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C418,img_016.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C419,img_016.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C420,img_016.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C421,img_016.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C422,img_016.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C423,img_016.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C424,img_016.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C425,img_016.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C426,img_016.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C427,img_016.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C428,img_016.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C429,img_016.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C430,img_016.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C431,img_018.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C432,img_018.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C433,img_018.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C434,img_018.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C435,img_018.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C436,img_018.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C437,img_018.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C438,img_018.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C439,img_018.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C440,img_018.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C441,img_018.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C442,img_018.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C443,img_018.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C444,img_018.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C445,img_018.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C446,img_018.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C447,img_018.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C448,img_018.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C449,img_018.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C450,img_018.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C451,img_019.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C452,img_019.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C453,img_019.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C454,img_019.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C455,img_019.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C456,img_019.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C457,img_019.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C458,img_019.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C459,img_019.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C460,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C461,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C462,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C463,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C464,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C465,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C466,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C467,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C468,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C469,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C470,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C471,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C472,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C473,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C474,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C475,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C476,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C477,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C478,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C479,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C480,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C481,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C482,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C483,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C484,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C485,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C486,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C487,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C488,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C489,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C490,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C491,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C492,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C493,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C494,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C495,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C496,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C497,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C498,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C499,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C500,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C501,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C502,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C503,img_021.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C504,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C505,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C506,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C507,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C508,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C509,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C510,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C511,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C512,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C513,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C514,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C515,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C516,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C517,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C518,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C519,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C520,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C521,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C522,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C523,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C524,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C525,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C526,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C527,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C528,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C529,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C530,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C531,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C532,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C533,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C534,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C535,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C536,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C537,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C538,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C539,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C540,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C541,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C542,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C543,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C544,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C545,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C546,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C547,img_021.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C548,img_021.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C549,img_021.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C550,img_021.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C551,img_022.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C552,img_022.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C553,img_023.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C554,img_023.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C555,img_023.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C556,img_023.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C557,img_023.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C558,img_023.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C559,img_023.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C560,img_023.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C561,img_023.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C562,img_023.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C563,img_023.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C564,img_023.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C565,img_023.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C566,img_023.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C567,img_023.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C568,img_023.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C569,img_023.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C570,img_023.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C571,img_023.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C572,img_023.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C573,img_023.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C574,img_023.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C575,img_023.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C576,img_023.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C577,img_023.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C578,img_023.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C579,img_023.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C580,img_023.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C581,img_023.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C582,img_023.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C583,img_023.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C584,img_023.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C585,img_024.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C586,img_024.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C587,img_024.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C588,img_024.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C589,img_024.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C590,img_024.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C591,img_024.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C592,img_024.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C593,img_024.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C594,img_024.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C595,img_024.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C596,img_024.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C597,img_024.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C598,img_024.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C599,img_024.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C600,img_024.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C601,img_024.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C602,img_024.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C603,img_024.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C604,img_025.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C605,img_025.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C606,img_025.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C607,img_025.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C608,img_025.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C609,img_025.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C610,img_025.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C611,img_025.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C612,img_025.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C613,img_025.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C614,img_025.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C615,img_025.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C616,img_025.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C617,img_025.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C618,img_025.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C619,img_025.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C620,img_025.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C621,img_025.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C622,img_025.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C623,img_025.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C624,img_025.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C625,img_025.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C626,img_025.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C627,img_025.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C628,img_025.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C629,img_025.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C630,img_025.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C631,img_025.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C632,img_025.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C633,img_025.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C634,img_025.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C635,img_025.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C636,img_025.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C637,img_025.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C638,img_026.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C639,img_026.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C640,img_026.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C641,img_026.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C642,img_026.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C643,img_026.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C644,img_028.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C645,img_028.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C646,img_028.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C647,img_028.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C648,img_028.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C649,img_029.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C650,img_029.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C651,img_029.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C652,img_029.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C653,img_029.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C654,img_029.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C655,img_029.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C656,img_029.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C657,img_029.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C658,img_029.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C659,img_029.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C660,img_029.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C661,img_029.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C662,img_029.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C663,img_029.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C664,img_029.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C665,img_029.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C666,img_029.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C667,img_029.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C668,img_029.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C669,img_029.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C670,img_029.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C671,img_029.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C672,img_029.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C673,img_029.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C674,img_030.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C675,img_030.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C676,img_030.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C677,img_030.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C678,img_030.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C679,img_030.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C680,img_030.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C681,img_030.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C682,img_030.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C683,img_030.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C684,img_030.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C685,img_030.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C686,img_030.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C687,img_030.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C688,img_030.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C689,img_030.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C690,img_030.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C691,img_030.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C692,img_030.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C693,img_030.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C694,img_030.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C695,img_030.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C696,img_030.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C697,img_030.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C698,img_030.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C699,img_030.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C700,img_030.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C701,img_030.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C702,img_030.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C703,img_030.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C704,img_030.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C705,img_030.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C706,img_030.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C707,img_030.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C708,img_030.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C709,img_030.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C710,img_030.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C711,img_030.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C712,img_030.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C713,img_031.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C714,img_031.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C715,img_031.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C716,img_031.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C717,img_031.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C718,img_031.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C719,img_031.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C720,img_031.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C721,img_031.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C722,img_031.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C723,img_031.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C724,img_031.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C725,img_031.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C726,img_031.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C727,img_031.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C728,img_031.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C729,img_031.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C730,img_031.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C731,img_031.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C732,img_031.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C733,img_031.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C734,img_031.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C735,img_031.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C736,img_031.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C737,img_031.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C738,img_031.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C739,img_031.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C740,img_031.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C741,img_032.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C742,img_032.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C743,img_032.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C744,img_032.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C745,img_032.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C746,img_032.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C747,img_032.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C748,img_032.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C749,img_032.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C750,img_032.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C751,img_032.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C752,img_032.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C753,img_032.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C754,img_032.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C755,img_032.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C756,img_032.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C757,img_032.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C758,img_032.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C759,img_032.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C760,img_032.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C761,img_032.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C762,img_032.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C763,img_032.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C764,img_032.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C765,img_032.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C766,img_032.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C767,img_032.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C768,img_032.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C769,img_032.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C770,img_032.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C771,img_032.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C772,img_032.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C773,img_032.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C774,img_032.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C775,img_032.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C776,img_032.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C777,img_032.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C778,img_032.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C779,img_032.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C780,img_032.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C781,img_032.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C782,img_032.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C783,img_032.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C784,img_032.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C785,img_032.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C786,img_032.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C787,img_032.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C788,img_032.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C789,img_032.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C790,img_032.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C791,img_032.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C792,img_032.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C793,img_032.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C794,img_032.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C795,img_032.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C796,img_032.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C797,img_032.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C798,img_032.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C799,img_032.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C800,img_032.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C801,img_032.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C802,img_032.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C803,img_032.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C804,img_032.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C805,img_032.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C806,img_032.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C807,img_034.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C808,img_034.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C809,img_034.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C810,img_034.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C811,img_034.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C812,img_034.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C813,img_034.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C814,img_034.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C815,img_034.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C816,img_034.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C817,img_034.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C818,img_034.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C819,img_034.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C820,img_034.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C821,img_034.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C822,img_034.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C823,img_034.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C824,img_034.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C825,img_034.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C826,img_034.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C827,img_034.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C828,img_034.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C829,img_034.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C830,img_034.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C831,img_034.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C832,img_034.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C833,img_034.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C834,img_034.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C835,img_034.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C836,img_034.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C837,img_034.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C838,img_034.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C839,img_034.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C840,img_034.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C841,img_034.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C842,img_034.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C843,img_034.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C844,img_034.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C845,img_034.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C846,img_034.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C847,img_034.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C848,img_034.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C849,img_034.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C850,img_034.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C851,img_034.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C852,img_034.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C853,img_034.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C854,img_034.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C855,img_034.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C856,img_034.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C857,img_034.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C858,img_035.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C859,img_035.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C860,img_035.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C861,img_035.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C862,img_035.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C863,img_035.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C864,img_035.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C865,img_035.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C866,img_035.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C867,img_035.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C868,img_035.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C869,img_035.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C870,img_035.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C871,img_035.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C872,img_035.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C873,img_035.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C874,img_035.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C875,img_035.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C876,img_035.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C877,img_035.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C878,img_035.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C879,img_035.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C880,img_035.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C881,img_035.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C882,img_035.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C883,img_035.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C884,img_035.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C885,img_035.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C886,img_035.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C887,img_035.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C888,img_035.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C889,img_035.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C890,img_035.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C891,img_035.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C892,img_035.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C893,img_035.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C894,img_035.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C895,img_035.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C896,img_035.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C897,img_036.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C898,img_036.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C899,img_036.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C900,img_036.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C901,img_036.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C902,img_036.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C903,img_036.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C904,img_036.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C905,img_036.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C906,img_036.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C907,img_036.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C908,img_036.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C909,img_036.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C910,img_036.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C911,img_036.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C912,img_036.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C913,img_036.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C914,img_036.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C915,img_036.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C916,img_036.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C917,img_036.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C918,img_037.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C919,img_037.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C920,img_037.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C921,img_037.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C922,img_037.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C923,img_037.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C924,img_037.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C925,img_037.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C926,img_037.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C927,img_037.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C928,img_039.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C929,img_039.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C930,img_039.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C931,img_039.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C932,img_039.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C933,img_039.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C934,img_039.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C935,img_039.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C936,img_039.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C937,img_039.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C938,img_039.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C939,img_039.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C940,img_039.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C941,img_039.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C942,img_039.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C943,img_039.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C944,img_039.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C945,img_039.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C946,img_039.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C947,img_039.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C948,img_039.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C949,img_039.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C950,img_039.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C951,img_039.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C952,img_039.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C953,img_039.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C954,img_039.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C955,img_039.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C956,img_039.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C957,img_039.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C958,img_039.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C959,img_039.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C960,img_039.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C961,img_039.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C962,img_039.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C963,img_039.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C964,img_039.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C965,img_039.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C966,img_039.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C967,img_039.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C968,img_039.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C969,img_039.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C970,img_039.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C971,img_039.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C972,img_039.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C973,img_039.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C974,img_040.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C975,img_040.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C976,img_040.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C977,img_040.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C978,img_040.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C979,img_040.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C980,img_040.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C981,img_040.jpg,co_can_review,101,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C982,img_040.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C983,img_040.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C984,img_040.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C985,img_040.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C986,img_040.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C987,img_040.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C988,img_040.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C989,img_040.jpg,co_can_review,102,R-16,"Xem lại lớp, box, che/cắt mép, bỏ sót; chỉ bỏ cờ sau khi kiểm thực tế.",pending
+C990,img_040.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C991,img_040.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C992,img_040.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C993,img_040.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C994,img_040.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C995,img_040.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending
+C996,img_040.jpg,sai_thuoc_tinh,101|102,R-06/R-07,"Đối chiếu vật che và phần ra ngoài ảnh; chọn mức theo ngưỡng, không mặc định 0.",pending

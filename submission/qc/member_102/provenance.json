@@ -1,0 +1,28 @@
+{
+  "member": "102",
+  "method": "Rà sơ bộ 40 overlay; xem riêng ảnh gốc 007, 014, 022, 037; chưa nghiệm thu từng box.",
+  "source_sha256": "c89fc0b2b946bebf47dac771f01daac86271db8a54bc1c64a4d637fb3693c322",
+  "labels_sha256": "386e0b8899d87806596d2bed3c40b271f7b00d70511b8bb6a5471e66925825f8",
+  "images": 40,
+  "annotations": 449,
+  "classes": {
+    "person": 214,
+    "truck": 12,
+    "car": 72,
+    "motorcycle": 116,
+    "bicycle": 14,
+    "three_wheeler": 9,
+    "van": 2,
+    "bus": 7,
+    "ignore_region": 3
+  },
+  "review_pending": 446,
+  "not_performed": [
+    "Independent human annotation",
+    "CVAT import/export",
+    "Fine-grained review of every bbox/attribute",
+    "Calibration meeting",
+    "Final QC sign-off"
+  ],
+  "independent_iaa_eligible": false
+}

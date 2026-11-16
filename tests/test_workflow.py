@@ -231,13 +231,26 @@ class WorkflowTest(unittest.TestCase):
         self.review(round_number=2)
         self.assertIn("**RELEASE**", self.run_script("qc_report", "--round", "2"))
 
-    def test_assignment_rejects_unsafe_member_and_symlink_destination(self):
+    def test_assignment_rejects_unsafe_member(self):
         self.run_script("split_assign", "--members", "../data,102", "--copy-images", success=False)
+
+    def test_assignment_rejects_symlink_destination(self):
         output = self.root / "work"
         output.mkdir()
-        (output / "101").symlink_to(self.root / "data", target_is_directory=True)
+        try:
+            (output / "101").symlink_to(self.root / "data", target_is_directory=True)
+        except OSError as exc:
+            if getattr(exc, "winerror", None) == 1314:
+                self.skipTest("Windows account cannot create symbolic links; covered by Linux CI.")
+            raise
         self.run_script("split_assign", "--members", "101,102", "--copy-images", success=False)
         self.assertEqual(sorted(path.name for path in self.images.iterdir()), self.names)
+
+    def test_comparison_records_portable_relative_paths(self):
+        self.compare()
+        summary = json.loads((self.qc / "iaa_summary.json").read_text(encoding="utf-8"))
+        self.assertIn("submission/labels/101.json", summary["inputs"])
+        self.assertFalse(any("\\" in path for path in summary["inputs"]))
 
     def test_full_cli_handoff_checks_final_decision_and_rejects_tampering(self):
         (self.root / "guideline").mkdir()

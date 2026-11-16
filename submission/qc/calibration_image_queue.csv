@@ -1,0 +1,41 @@
+﻿image,n_cases,types,status,original_image,overlay
+img_001.jpg,19,"{""co_can_review"": 14, ""sai_thuoc_tinh"": 5}",pending,data/images/img_001.jpg,work/viz/img_001.png
+img_002.jpg,27,"{""co_can_review"": 20, ""sai_thuoc_tinh"": 7}",pending,data/images/img_002.jpg,work/viz/img_002.png
+img_003.jpg,62,"{""co_can_review"": 62}",pending,data/images/img_003.jpg,work/viz/img_003.png
+img_004.jpg,8,"{""co_can_review"": 8}",pending,data/images/img_004.jpg,work/viz/img_004.png
+img_005.jpg,34,"{""co_can_review"": 28, ""sai_thuoc_tinh"": 6}",pending,data/images/img_005.jpg,work/viz/img_005.png
+img_006.jpg,68,"{""co_can_review"": 58, ""sai_thuoc_tinh"": 10}",pending,data/images/img_006.jpg,work/viz/img_006.png
+img_007.jpg,4,"{""co_can_review"": 4}",pending,data/images/img_007.jpg,work/viz/img_007.png
+img_008.jpg,52,"{""co_can_review"": 52}",pending,data/images/img_008.jpg,work/viz/img_008.png
+img_009.jpg,18,"{""co_can_review"": 18}",pending,data/images/img_009.jpg,work/viz/img_009.png
+img_010.jpg,21,"{""co_can_review"": 18, ""sai_thuoc_tinh"": 3}",pending,data/images/img_010.jpg,work/viz/img_010.png
+img_011.jpg,38,"{""co_can_review"": 38}",pending,data/images/img_011.jpg,work/viz/img_011.png
+img_012.jpg,10,"{""co_can_review"": 8, ""sai_thuoc_tinh"": 2}",pending,data/images/img_012.jpg,work/viz/img_012.png
+img_013.jpg,10,"{""co_can_review"": 10}",pending,data/images/img_013.jpg,work/viz/img_013.png
+img_014.jpg,16,"{""bo_sot_thua"": 4, ""co_can_review"": 10, ""iou_thap"": 1, ""sai_thuoc_tinh"": 1}",pending,data/images/img_014.jpg,work/viz/img_014.png
+img_015.jpg,12,"{""co_can_review"": 12}",pending,data/images/img_015.jpg,work/viz/img_015.png
+img_016.jpg,31,"{""co_can_review"": 22, ""sai_thuoc_tinh"": 9}",pending,data/images/img_016.jpg,work/viz/img_016.png
+img_017.jpg,0,{},no_flag_not_final_qc,data/images/img_017.jpg,
+img_018.jpg,20,"{""co_can_review"": 14, ""sai_thuoc_tinh"": 6}",pending,data/images/img_018.jpg,work/viz/img_018.png
+img_019.jpg,9,"{""co_can_review"": 8, ""sai_thuoc_tinh"": 1}",pending,data/images/img_019.jpg,work/viz/img_019.png
+img_020.jpg,0,{},no_flag_not_final_qc,data/images/img_020.jpg,
+img_021.jpg,91,"{""co_can_review"": 88, ""sai_thuoc_tinh"": 3}",pending,data/images/img_021.jpg,work/viz/img_021.png
+img_022.jpg,2,"{""co_can_review"": 2}",pending,data/images/img_022.jpg,work/viz/img_022.png
+img_023.jpg,32,"{""co_can_review"": 32}",pending,data/images/img_023.jpg,work/viz/img_023.png
+img_024.jpg,19,"{""co_can_review"": 14, ""sai_thuoc_tinh"": 5}",pending,data/images/img_024.jpg,work/viz/img_024.png
+img_025.jpg,34,"{""co_can_review"": 34}",pending,data/images/img_025.jpg,work/viz/img_025.png
+img_026.jpg,6,"{""co_can_review"": 6}",pending,data/images/img_026.jpg,work/viz/img_026.png
+img_027.jpg,0,{},no_flag_not_final_qc,data/images/img_027.jpg,
+img_028.jpg,5,"{""co_can_review"": 4, ""sai_thuoc_tinh"": 1}",pending,data/images/img_028.jpg,work/viz/img_028.png
+img_029.jpg,25,"{""co_can_review"": 24, ""sai_thuoc_tinh"": 1}",pending,data/images/img_029.jpg,work/viz/img_029.png
+img_030.jpg,39,"{""co_can_review"": 26, ""sai_thuoc_tinh"": 13}",pending,data/images/img_030.jpg,work/viz/img_030.png
+img_031.jpg,28,"{""co_can_review"": 28}",pending,data/images/img_031.jpg,work/viz/img_031.png
+img_032.jpg,66,"{""co_can_review"": 62, ""sai_thuoc_tinh"": 4}",pending,data/images/img_032.jpg,work/viz/img_032.png
+img_033.jpg,0,{},no_flag_not_final_qc,data/images/img_033.jpg,
+img_034.jpg,51,"{""co_can_review"": 50, ""sai_thuoc_tinh"": 1}",pending,data/images/img_034.jpg,work/viz/img_034.png
+img_035.jpg,39,"{""co_can_review"": 34, ""sai_thuoc_tinh"": 5}",pending,data/images/img_035.jpg,work/viz/img_035.png
+img_036.jpg,21,"{""co_can_review"": 18, ""sai_thuoc_tinh"": 3}",pending,data/images/img_036.jpg,work/viz/img_036.png
+img_037.jpg,10,"{""co_can_review"": 8, ""sai_thuoc_tinh"": 2}",pending,data/images/img_037.jpg,work/viz/img_037.png
+img_038.jpg,0,{},no_flag_not_final_qc,data/images/img_038.jpg,
+img_039.jpg,46,"{""co_can_review"": 46}",pending,data/images/img_039.jpg,work/viz/img_039.png
+img_040.jpg,23,"{""co_can_review"": 16, ""sai_thuoc_tinh"": 7}",pending,data/images/img_040.jpg,work/viz/img_040.png

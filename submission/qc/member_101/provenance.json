@@ -1,0 +1,10 @@
+{
+  "member": "101",
+  "source_sha256": "c89fc0b2b946bebf47dac771f01daac86271db8a54bc1c64a4d637fb3693c322",
+  "labels_sha256": "1b92ed576cf8ec33f606d1ac2b0594f1d545359266f71e5cb3c320c7342e0f82",
+  "images": 40,
+  "annotations": 453,
+  "review_pending": 450,
+  "independent_iaa_eligible": false,
+  "method": "Rà 40 ảnh gốc và overlay; sửa một số box/lớp rõ; chưa nghiệm thu toàn bộ đối tượng."
+}

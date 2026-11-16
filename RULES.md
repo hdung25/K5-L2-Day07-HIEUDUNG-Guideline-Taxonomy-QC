@@ -1,5 +1,5 @@
 # Quy tắc làm bài
-cho phép sử dụng AI làm bài nhưng chất lượng phải tốt 
+Chất lượng bài làm được đánh giá theo bằng chứng và rubric.
 ## Hình thức
 
 - **Nhóm 2–5 người**, mỗi thành viên có guideline, nhãn và ghi chú riêng. Mọi người làm cùng phạm vi (40 ảnh) và cùng tiêu chí QC.

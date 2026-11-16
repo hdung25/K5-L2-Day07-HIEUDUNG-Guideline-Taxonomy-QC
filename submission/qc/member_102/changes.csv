@@ -1,0 +1,9 @@
+image,object_id,action,reason
+img_006.jpg,84,remove,Box trùng/cùng vật; giữ box bao phần thấy rõ hơn.
+img_006.jpg,90,remove,Box trùng/cùng vật; giữ box bao phần thấy rõ hơn.
+img_007.jpg,98,remove,Box trùng/cùng vật; giữ box bao phần thấy rõ hơn.
+img_010.jpg,143,remove,Box trùng/cùng vật; giữ box bao phần thấy rõ hơn.
+img_022.jpg,251,bbox,Bao mô tô và thuyền; ảnh gốc không có người (R-03/R-05).
+img_030.jpg,314,remove,Box trùng/cùng vật; giữ box bao phần thấy rõ hơn.
+img_037.jpg,423,class: bus,Buýt xanh phía sau pickup; nhiều cửa sổ và thân xe chở khách (R-02).
+img_039.jpg,447,remove,Box trùng/cùng vật; giữ box bao phần thấy rõ hơn.

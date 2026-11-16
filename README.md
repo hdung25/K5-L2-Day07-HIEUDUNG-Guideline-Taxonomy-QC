@@ -1,5 +1,11 @@
 # Day 07 Lab — Guideline, Taxonomy & QC
 
+**Bài làm nhóm HIEUDUNG:** xem [hồ sơ bàn giao](REVIEW_START_HERE.md),
+[báo cáo QC](submission/qc/QC_REPORT.md) và
+[checklist đánh giá](submission/qc/REVIEW_CHECKLIST.md).
+Trạng thái hiện tại: **Hold** — nhãn đã hợp lệ cấu trúc, còn calibration và QC nghiệm thu.
+
+
 **Nhóm 2–5 người · 4 giờ · 40 ảnh đường phố · gán box bằng CVAT**
 
 Bạn nhận một guideline **sơ sài** và 40 ảnh chứa nhiều tình huống mà nó không nói tới.

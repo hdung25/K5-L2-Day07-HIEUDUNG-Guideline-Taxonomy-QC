@@ -1,0 +1,5 @@
+LỖI: Thiếu hoặc trống: submission\labels\101.json.
+LỖI: Thiếu hoặc trống: submission\individual_notes\101.md.
+LỖI: Danh sách file nhãn phải khớp mã thành viên trong assignment.csv.
+LỖI: Chưa đủ bằng chứng bàn giao: [Errno 2] No such file or directory: 'D:\\vinuni\\lab03\\day07\\submission\\qc\\reviews\\round-01\\qc_result.json'.
+Tổng kết: 4 lỗi. Reviewer vẫn cần kiểm nội dung và mở thử gói bàn giao.

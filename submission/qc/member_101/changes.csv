@@ -1,0 +1,15 @@
+image,object_id,action,reason
+img_006.jpg,84,remove,Box trùng cùng vật; giữ box đầy đủ hơn.
+img_006.jpg,90,remove,Box trùng cùng vật; giữ box đầy đủ hơn.
+img_007.jpg,98,remove,Box trùng cùng vật; giữ box đầy đủ hơn.
+img_010.jpg,143,remove,Box trùng cùng vật; giữ box đầy đủ hơn.
+img_014.jpg,176,bbox,Tách phần người nhòe khỏi xe; giữ can_review.
+img_019.jpg,201,bbox,Box cũ thiếu mũi xe bên trái và bao quá nhiều người ở nền.
+img_022.jpg,251,bbox,Bao mô tô gắn thuyền và gương/ghi đông nhìn thấy.
+img_030.jpg,314,remove,Box trùng cùng vật; giữ box đầy đủ hơn.
+img_037.jpg,423,reclassify,truck -> bus; xe xanh phía sau pickup.
+img_039.jpg,447,remove,Box trùng cùng vật; giữ box đầy đủ hơn.
+img_014.jpg,456,add,Người/xe nhòe ở rìa ảnh theo R-17; cần xác nhận ranh giới.
+img_014.jpg,457,add,Người/xe nhòe ở rìa ảnh theo R-17; cần xác nhận ranh giới.
+img_014.jpg,458,add,Người/xe nhòe ở rìa ảnh theo R-17; cần xác nhận ranh giới.
+img_014.jpg,459,add,Người/xe nhòe ở rìa ảnh theo R-17; cần xác nhận ranh giới.

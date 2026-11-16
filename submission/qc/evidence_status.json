@@ -1,0 +1,69 @@
+{
+  "decision": "Hold",
+  "labels": {
+    "101": {
+      "images": 40,
+      "annotations": 453,
+      "objects": 450,
+      "can_review": 450,
+      "sha256": "1b92ed576cf8ec33f606d1ac2b0594f1d545359266f71e5cb3c320c7342e0f82"
+    },
+    "102": {
+      "images": 40,
+      "annotations": 449,
+      "objects": 446,
+      "can_review": 446,
+      "sha256": "386e0b8899d87806596d2bed3c40b271f7b00d70511b8bb6a5471e66925825f8"
+    }
+  },
+  "coverage_structural": {
+    "completed": 80,
+    "assigned": 80
+  },
+  "independent_iaa_verified": false,
+  "comparison_only": {
+    "n_images": 40,
+    "n_matched_pairs": 446,
+    "n_unmatched_a": 4,
+    "n_unmatched_b": 0,
+    "n_skipped_in_ignore": 0,
+    "mean_iou": 0.9987570415240253,
+    "class_agreement": 1.0,
+    "attr_agreement": {
+      "occluded_level": 0.7869955156950673,
+      "truncated": 1.0
+    },
+    "n_below_iou_thr": 1,
+    "iou_pass": true,
+    "class_pass": true,
+    "pass": true
+  },
+  "cases": 996,
+  "decisions_nonempty_all_fields": 0,
+  "decisions_pending": 996,
+  "flagged_images": 35,
+  "locked_input_hashes_match": true,
+  "generated_artifact_hashes_match": true,
+  "taxonomy_rules_preserved": true,
+  "v1_1_status": "proposal_pending_calibration",
+  "missing_final_evidence": [
+    "labels_calibrated.json",
+    "labels_calibrated.csv",
+    "batch_manifest.json",
+    "reviews/round-01/qc_review.csv",
+    "reviews/round-01/qc_result.json"
+  ],
+  "commands": [
+    {
+      "script": "validate_labels",
+      "exit_code": 0,
+      "log": "submission/qc/validate_labels_latest.txt"
+    },
+    {
+      "script": "check_submission",
+      "exit_code": 1,
+      "log": "submission/qc/check_submission_latest.txt"
+    }
+  ],
+  "limitations": "Structural validity and matching hashes do not establish annotation correctness or independent human work."
+}
