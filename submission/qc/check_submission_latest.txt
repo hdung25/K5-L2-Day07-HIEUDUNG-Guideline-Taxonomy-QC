@@ -1,2 +1,1 @@
-LỖI: Chưa đủ bằng chứng bàn giao: [Errno 2] No such file or directory: 'D:\\vinuni\\lab03\\day07\\submission\\qc\\reviews\\round-01\\qc_result.json'.
-Tổng kết: 1 lỗi. Reviewer vẫn cần kiểm nội dung và mở thử gói bàn giao.
+Tổng kết: 0 lỗi. Reviewer vẫn cần kiểm nội dung và mở thử gói bàn giao.

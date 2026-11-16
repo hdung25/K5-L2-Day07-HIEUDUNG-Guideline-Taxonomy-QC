@@ -16,8 +16,12 @@ def sha(path):
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
 def main():
+    rounds=[int(p.name.split('-')[-1]) for p in (QC/'reviews').glob('round-*') if p.is_dir()]
+    number=max(rounds,default=1)
+    current_result=QC/f'reviews/round-{number:02d}/qc_result.json'
+    decision=read_json(current_result)['decision'].title() if current_result.is_file() else 'Hold'
     commands=[]
-    for name,args in [('validate_labels',['--all']),('check_submission',['--round','1'])]:
+    for name,args in [('validate_labels',['--all']),('check_submission',['--round',str(number)])]:
         result=subprocess.run([sys.executable,'-X','utf8',str(ROOT/'scripts'/f'{name}.py'),*args],cwd=ROOT,capture_output=True,text=True,encoding='utf-8')
         log=QC/f'{name}_latest.txt'
         log.write_text(result.stdout+result.stderr,encoding='utf-8')
@@ -41,13 +45,13 @@ def main():
     baseline=read_json(ROOT/'submission/taxonomy.json')
     final=read_json(ROOT/'submission/taxonomy_v1.1.json')
     missing=[name for name in ['labels_calibrated.json','labels_calibrated.csv','batch_manifest.json',
-        'reviews/round-01/qc_review.csv','reviews/round-01/qc_result.json'] if not (QC/name).is_file()]
-    result={'decision':'Hold','labels':labels,'coverage_structural':summary['coverage'],
+        f'reviews/round-{number:02d}/qc_review.csv',f'reviews/round-{number:02d}/qc_result.json'] if not (QC/name).is_file()]
+    result={'decision':decision,'review_round':number,'labels':labels,'coverage_structural':summary['coverage'],
         'independent_iaa_verified':False,'comparison_only':summary['overall'],
         'cases':len(decisions),'decisions_nonempty_all_fields':complete,'decisions_pending':len(decisions)-complete,
         'flagged_images':summary['n_flagged_images'],'locked_input_hashes_match':locked_ok,
         'generated_artifact_hashes_match':artifact_ok,'taxonomy_rules_preserved':baseline['rules']==final['rules'],
-        'v1_1_status':'proposal_pending_calibration','missing_final_evidence':missing,'commands':commands,
+        'v1_1_status':'applied_all_40_images' if not missing else 'proposal_pending_calibration','missing_final_evidence':missing,'commands':commands,
         'limitations':'Structural validity and matching hashes do not establish annotation correctness or independent human work.'}
     (QC/'evidence_status.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     print(json.dumps(result,ensure_ascii=False,indent=2))

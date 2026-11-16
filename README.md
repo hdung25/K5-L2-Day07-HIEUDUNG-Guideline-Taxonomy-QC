@@ -3,7 +3,7 @@
 **Bài làm nhóm HIEUDUNG:** xem [hồ sơ bàn giao](REVIEW_START_HERE.md),
 [báo cáo QC](submission/qc/QC_REPORT.md) và
 [checklist đánh giá](submission/qc/REVIEW_CHECKLIST.md).
-Trạng thái hiện tại: **Hold** — nhãn đã hợp lệ cấu trúc, còn calibration và QC nghiệm thu.
+Trạng thái nhãn sau sửa: **Release ở QC vòng 2**, kiểm bài **0 lỗi**; đọc giới hạn IAA độc lập trong báo cáo.
 
 
 **Nhóm 2–5 người · 4 giờ · 40 ảnh đường phố · gán box bằng CVAT**

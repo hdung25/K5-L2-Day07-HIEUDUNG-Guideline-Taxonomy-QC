@@ -1,16 +1,14 @@
-# Chỉ mục bằng chứng
+# Chỉ mục bằng chứng cuối
 
-- `evidence_status.json`: kết quả kiểm hiện hành; `validate_labels_latest.txt` đạt, `check_submission_latest.txt` còn 1 lỗi do chưa có vòng QC nhãn cuối.
-- `iaa_summary.json/.md`, `calibration_candidates.csv`, `image_scores.csv`, `flagged_images.txt`, `consensus_draft.json`: đầu ra gốc của script, không sửa tay. Đọc kèm `IAA_LIMITATIONS.md`.
-- `calibration_decisions.csv`: 996 ca, chưa có quyết định được xác nhận; ô trống thể hiện việc còn lại. Không thay bằng dòng tự xác nhận.
-- `calibration_context.json`: khóa summary hiện hành; thay đầu vào phải lưu hồ sơ cũ và tái tạo.
-- `calibration_worklist.csv`: 996 gợi ý thao tác/rule, không phải quyết định đã chốt.
-- `calibration_image_queue.csv`: 40 ảnh, giúp đi theo từng ảnh; không phải 40 phiếu đã nghiệm thu.
-- `source_labels.json`: nguồn nguyên bản dùng chung cho hai file nháp, được giữ để đối chiếu SHA-256. Không chứng minh độc lập.
-- `member_101/changes.csv`, `member_102/changes.csv`: nhật ký sửa sơ bộ; `provenance.json` trong từng thư mục khóa checksum của bản làm việc.
-- `member_102/observations.md`: quan sát sơ bộ nguồn trước sửa 101; các box đề cập cần đối chiếu bản nhãn hiện hành.
-- `member_102/submission_check.txt`: log lịch sử thời điểm chưa bổ sung 101; dùng `check_submission_latest.txt` cho trạng thái hiện tại.
-- `QC_REPORT.md`, `GUIDELINE_DISCUSSION.md`, `NEXT_STEPS.md`: báo cáo Hold, đối chiếu đặc tả và thứ tự tiếp tục.
-- `REVIEW_CHECKLIST.md`, `rubric_scorecard.csv`: checklist và phiếu chấm 21 tiêu chí /100; điểm để trống cho người đánh giá.
-
-Tên `guideline_v1.1_calibrated.md` và `labels_final.json` theo quy ước pipeline; nội dung v1.1 hiện là **đề xuất chưa xác nhận**, không phải kết quả calibration đã hoàn tất. Các file nhãn cuối/manifest/QC chưa được tạo vì gate calibration chưa đạt.
+- labels/101.json,102.json và iaa_summary giữ đầu vào/kết quả trước calibration; IAA_LIMITATIONS.md ghi rõ so sánh cùng nguồn.
+- calibration_decisions.csv:996 ca nguồn +Q001 toàn lô +Q002 sửa sau QC, tổng998 dòng.
+- calibration_edits.json:từng instance trước/sau; final_object_map.csv nối source_id/final_id.
+- labels_calibrated_c688aa14116ff474.json:COCO sau sửa đúng phiên bản hiện hành; labels_calibrated_9f2cd4822d7c3802.json là bản vòng đầu, giữ để truy vết.
+- labels_calibrated.json/.csv, batch_manifest.json:nhãn cuối40 ảnh,467 annotation và checksum.
+- reviews/round-01:ảnh chụp nhãn, manifest, quyết định, phiếu và kết quả Hold, 1 person bỏ sót.
+- reviews/round-02:nhãn sau sửa, phiếu40/40, kết quả Release, overlay40 ảnh và visual_review_index.json.
+- QC_REPORT.md, evidence_status.json, check_submission_latest.txt:báo cáo cuối, kiểm checksum và0 lỗi kiểm bài.
+- SOURCE_VERIFICATION.md:đối chiếu nguồn img_011/024; GUIDE_ALIGNMENT.md:đối chiếu hướng dẫn trực tuyến với script hiện hành.
+- test_results.txt, REPRODUCIBILITY.md:kiểm thử công cụ và sửa tái lập Windows/Linux.
+- member_101/102 lưu lịch sử sửa trước calibration; log trong member_102/submission_check.txt là lịch sử, không phải kết quả cuối.
+- REVIEW_CHECKLIST.md và rubric_scorecard.csv:checklist và21 tiêu chí100 điểm; không tự ghi điểm khi chưa chấm.

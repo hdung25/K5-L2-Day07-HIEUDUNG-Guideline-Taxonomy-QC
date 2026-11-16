@@ -1,0 +1,206 @@
+{
+  "round": 2,
+  "labels_sha256": "00d255ffb685a7226fb25f17a74df75d536e08b461c5285470ea662943396198",
+  "overlays": [
+    {
+      "image": "img_001.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_001.jpg",
+      "sha256": "d214c5f0937c042d222084bae2777c0f62f5390caf1fc519b7ee93859306fe8d"
+    },
+    {
+      "image": "img_002.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_002.jpg",
+      "sha256": "f3fb7d2e916f05d7a9cca46d027dbedb0e62060ade5c34f9fc4427b4ff811acd"
+    },
+    {
+      "image": "img_003.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_003.jpg",
+      "sha256": "e23c414670b1b89d31d811006a47463f1f9e8710b745d6a882fffed4de5ff363"
+    },
+    {
+      "image": "img_004.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_004.jpg",
+      "sha256": "abd339426c7d2740259bba9d1131a165641f552d5bd76841be7071f1dbc2438d"
+    },
+    {
+      "image": "img_005.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_005.jpg",
+      "sha256": "5ed9c25aa0addf914d12173719afc1fc7ba15017fc902b1520e1efd0230663ea"
+    },
+    {
+      "image": "img_006.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_006.jpg",
+      "sha256": "0cc5dc1838d4cd5aae6b3fdd71296d191f0c3ff8ab39d49bc03e591db80b5242"
+    },
+    {
+      "image": "img_007.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_007.jpg",
+      "sha256": "664281fbdfb140bf195fa3a182c0848ee5d18c022d663c355681e216e669b61f"
+    },
+    {
+      "image": "img_008.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_008.jpg",
+      "sha256": "68404fad34bbb083bfeb7539dd90e8629d762440615be2cd691dd54298454672"
+    },
+    {
+      "image": "img_009.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_009.jpg",
+      "sha256": "4c636c69d55b9c30454db7c347b41ef3e320aea8563d3ba450cc4774938ed548"
+    },
+    {
+      "image": "img_010.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_010.jpg",
+      "sha256": "e55dce270ee0102526b30c46770d9ff2cfb7c5e0b731c85e5e7ab54c62b51b4c"
+    },
+    {
+      "image": "img_011.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_011.jpg",
+      "sha256": "b76c0b0aede45fc1b5d943a96a2eb13a01c48b8c469638dc088df2a582aa6caa"
+    },
+    {
+      "image": "img_012.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_012.jpg",
+      "sha256": "b08dc06ac16ff27779a2c5f1f97e6de447be8bec8258ae8ac53250bfc7c335a1"
+    },
+    {
+      "image": "img_013.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_013.jpg",
+      "sha256": "7786e919d37050b3126b8fe76956f77cb6958cd8638d24000ed5b8451ca9734e"
+    },
+    {
+      "image": "img_014.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_014.jpg",
+      "sha256": "0bd996350f7ae42d0a5cb9e158bb6b1196da73427e678be4bc8381aa1757e1c5"
+    },
+    {
+      "image": "img_015.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_015.jpg",
+      "sha256": "dba86c9fda7da775d6c2fc04c26fbd240a0985c2f81463726fa02c5c739a5745"
+    },
+    {
+      "image": "img_016.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_016.jpg",
+      "sha256": "15be745c6d0f51197dfa5613ed1ceb9c4f021c78d4dbd7cd24b01d9748705234"
+    },
+    {
+      "image": "img_017.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_017.jpg",
+      "sha256": "79dfa4521c4432b99880c457d20f38fa8709b1d48805b7465b2d6cb76375535b"
+    },
+    {
+      "image": "img_018.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_018.jpg",
+      "sha256": "359ff3fc5762540a6b891337272cfe8dd193dcb3d6fe75968ad1d55270765d5f"
+    },
+    {
+      "image": "img_019.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_019.jpg",
+      "sha256": "e48a34847680f0255d9bd989aef25bbfb6985617f64d4c63870c869e5ecf09b9"
+    },
+    {
+      "image": "img_020.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_020.jpg",
+      "sha256": "c8247cf3a30869197c987b24fbc31163ffa13e1d3aba18dcc7622b683d63b2cd"
+    },
+    {
+      "image": "img_021.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_021.jpg",
+      "sha256": "ab95247ee6a406a70a6686d2d091d74b507d9ffd432e965ae624339f2a4b664d"
+    },
+    {
+      "image": "img_022.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_022.jpg",
+      "sha256": "fc0c33de69d8e2d906a05c35881ae439c3feab247c6dfbf4ae87d2e10e15dd16"
+    },
+    {
+      "image": "img_023.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_023.jpg",
+      "sha256": "b54ec2a00d474150fd9472a0656a50f228680ca937042117701b52fe6b45e4fc"
+    },
+    {
+      "image": "img_024.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_024.jpg",
+      "sha256": "2bf3d8646e2ac86b6f749ab9677a22c386732ceffb935e0c91969463eabc15bb"
+    },
+    {
+      "image": "img_025.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_025.jpg",
+      "sha256": "87d6536e281cc0c5e1dff06da52b0ce890702f5cd094b500ae32304f182d94c8"
+    },
+    {
+      "image": "img_026.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_026.jpg",
+      "sha256": "4697e909751efabcd67aa8b41c8dd0294eaac255f7fb12def8bab452ff452403"
+    },
+    {
+      "image": "img_027.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_027.jpg",
+      "sha256": "4b776bafae820eb64abc7909e41c213695168abeb1830ec3dbb0ea9d5d5de39e"
+    },
+    {
+      "image": "img_028.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_028.jpg",
+      "sha256": "de1feac8ea9cc2720d765045c49af1e0813e0904f1a9196304af6110ba8a340e"
+    },
+    {
+      "image": "img_029.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_029.jpg",
+      "sha256": "079a0be205997fcd9a59c2745ccb30544f0839495b1e9331e642b12c2a0facc4"
+    },
+    {
+      "image": "img_030.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_030.jpg",
+      "sha256": "27d71c913a4997d87e66c7f1da44d102c7ea525e13c10404a2a433aad863e6fd"
+    },
+    {
+      "image": "img_031.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_031.jpg",
+      "sha256": "93ecbcbec23defa9285e655f7e525d529eee5c7e2862695a5179ac6a3919551b"
+    },
+    {
+      "image": "img_032.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_032.jpg",
+      "sha256": "a07739f6ccceb78bd372549884ca46fc660950a3f4dd7e5a0133a3d73dd7722d"
+    },
+    {
+      "image": "img_033.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_033.jpg",
+      "sha256": "a876a16a17b5b09d5fb4fda7b77eca2776d074abe98a1a1b7f4c053cc8b8b0f0"
+    },
+    {
+      "image": "img_034.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_034.jpg",
+      "sha256": "e6e421728fdf9d9792426cec2c887061902f1ef8ffa67452c3fe32bb085c5730"
+    },
+    {
+      "image": "img_035.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_035.jpg",
+      "sha256": "1a5901dc996cfa14eabef2eb1f1e7c227a6f711c8dff7ebed2106ffac86b0dc6"
+    },
+    {
+      "image": "img_036.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_036.jpg",
+      "sha256": "f1220ad93de8a60fb38b81b534ca98cdb9db6bc0b70619be1310f5ed58e7c59d"
+    },
+    {
+      "image": "img_037.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_037.jpg",
+      "sha256": "fdf25f59aee0ed620b8ed6ca8b554832c98ef252b37e075c2e92d4c0926b7459"
+    },
+    {
+      "image": "img_038.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_038.jpg",
+      "sha256": "e709372f70012e362687aefd3fda9879426cb96d5d5588104ab2d20faad8b099"
+    },
+    {
+      "image": "img_039.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_039.jpg",
+      "sha256": "10d82ae10ae11563bd3e605f82fe215c5294053355c062f7bb33a02c0e12a0ed"
+    },
+    {
+      "image": "img_040.jpg",
+      "path": "submission/qc/reviews/round-02/overlays/img_040.jpg",
+      "sha256": "1b55e857cca1569932382ce23c880636e64a29ba6e10c9d8909818ea96a8c0ba"
+    }
+  ]
+}

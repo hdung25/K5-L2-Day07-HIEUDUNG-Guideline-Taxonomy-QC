@@ -1,5 +1,6 @@
 {
-  "decision": "Hold",
+  "decision": "Release",
+  "review_round": 2,
   "labels": {
     "101": {
       "images": 40,
@@ -38,21 +39,15 @@
     "class_pass": true,
     "pass": true
   },
-  "cases": 996,
-  "decisions_nonempty_all_fields": 0,
-  "decisions_pending": 996,
+  "cases": 998,
+  "decisions_nonempty_all_fields": 998,
+  "decisions_pending": 0,
   "flagged_images": 35,
   "locked_input_hashes_match": true,
   "generated_artifact_hashes_match": true,
   "taxonomy_rules_preserved": true,
-  "v1_1_status": "proposal_pending_calibration",
-  "missing_final_evidence": [
-    "labels_calibrated.json",
-    "labels_calibrated.csv",
-    "batch_manifest.json",
-    "reviews/round-01/qc_review.csv",
-    "reviews/round-01/qc_result.json"
-  ],
+  "v1_1_status": "applied_all_40_images",
+  "missing_final_evidence": [],
   "commands": [
     {
       "script": "validate_labels",
@@ -61,7 +56,7 @@
     },
     {
       "script": "check_submission",
-      "exit_code": 1,
+      "exit_code": 0,
       "log": "submission/qc/check_submission_latest.txt"
     }
   ],

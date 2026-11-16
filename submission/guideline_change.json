@@ -1,4 +1,4 @@
 {
   "kind": "semantic",
-  "summary": "Đề xuất v1.1 chưa xác nhận: dùng cấu trúc xe thay suy số ghế; làm rõ sidecar, túi đeo/cầm rời, thật/giả img_011/024 và sửa ví dụ img_022. Cần chốt calibration và rà toàn lô 40 ảnh trước nhãn cuối."
+  "summary": "Áp dụng v1.1 toàn bộ 40 ảnh: nhận dạng xe theo cấu trúc nhìn thấy, ngoại lệ sidecar, túi đeo/cầm rời, vật giả theo nguồn ảnh; sửa box, loại trùng, phân lớp và mức che; không đổi ngưỡng rules."
 }

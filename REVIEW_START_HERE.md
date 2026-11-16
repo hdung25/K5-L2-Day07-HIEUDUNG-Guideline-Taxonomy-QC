@@ -1,19 +1,22 @@
-# Bàn giao bài Day 07 — HIEUDUNG
+# Bàn giao Day 07 — HIEUDUNG
 
-Phần 101 và 102 đã có guideline, ghi chú và COCO hợp lệ cấu trúc; gói hiện tại là **Hold**, chưa hoàn thiện nhãn cuối/QC.
+**Nhãn sau calibration đã hoàn tất kiểm kỹ thuật: QC vòng 2 Release, check_submission --round 2 báo 0 lỗi.**
 
-1. Mở `submission/qc/REVIEW_CHECKLIST.md` để xem checklist, bảng tiêu chí và prompt chấm.
-2. Xem `submission/qc/evidence_status.json` và `check_submission_latest.txt` để biết kết quả kiểm thực tế.
-3. Đọc `submission/qc/IAA_LIMITATIONS.md` trước số liệu IAA: hai bản dùng cùng nguồn prelabel.
-4. Chấm `submission/qc/rubric_scorecard.csv` (21 tiêu chí, tối đa 100), điền điểm và lý do theo RUBRIC.md.
-5. Tiếp tục `submission/qc/NEXT_STEPS.md`; 996 ca còn chờ trong calibration_decisions.csv, có worklist và queue để xử lý.
+- 40 ảnh, 467 annotation:463 đối tượng +4 ignore_region; không còn cờ can_review trong nhãn cuối.
+- 996 ca C001–C996 đã có quyết định; Q001 áp dụng semantic toàn lô; Q002 sửa thiếu người phát hiện ở QC vòng 1.
+- Vòng 1 được giữ nguyên:1/40 ảnh có lỗi, 1 người bỏ sót; vòng 2:0/40 ảnh và 0/463 đối tượng có lỗi mới ghi nhận.
+- Giới hạn:hai bản đầu vào cùng nguồn; không xác nhận gán mù độc lập giữa hai người. Kết luận Release này dành cho nhãn sau xử lý chung, không phải bằng chứng hoàn thành tiêu chí độc lập hoặc điểm 92.
 
-Kiểm lại từ gốc repo:
+Mở submission/qc/QC_REPORT.md, batch_manifest.json và evidence_status.json để xem bằng chứng. Checklist nằm ở REVIEW_CHECKLIST.md, phiếu chấm 21 tiêu chí /100 ở rubric_scorecard.csv. Các cột điểm để trống cho người chấm.
+
+Ảnh overlay cuối được kèm trong submission/qc/reviews/round-02/overlays; source_id nối final_id bằng final_object_map.csv. data/ATTRIBUTION.csv giữ ghi công ảnh. work/ không được đưa vào repo/gói nộp.
+
+Chạy lại từ gốc repo:
 
 ```powershell
-python -m pip install -r requirements.txt
+python -X utf8 scripts/validate_labels.py --all
+python -X utf8 scripts/check_submission.py --round 2
 python -X utf8 submission/qc/evidence_audit.py
-python -X utf8 scripts/viz_disagreement.py --images flagged
 ```
 
-`work/` không nằm trong zip; tạo lại overlay bằng lệnh trên. Ảnh gốc, attribution và script được kèm trong gói. Hàm ghi đường dẫn checksum đã được sửa để tái lập Windows/Linux; xem `submission/qc/REPRODUCIBILITY.md`. Không thay công thức hoặc ngưỡng QC. Không ghi 0 lỗi hoặc Release khi chưa đủ calibration, manifest và QC.
+Hồ sơ công cụ và khác biệt Windows/Linux ở REPRODUCIBILITY.md; đối chiếu hướng dẫn trực tuyến ở GUIDE_ALIGNMENT.md. Chưa thực hiện nộp LMS hoặc xác nhận thay coach.
