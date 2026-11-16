@@ -11,10 +11,6 @@
 - Lúc gán dùng đúng v1.0 đã khóa. Chưa chắc thì tick `can_review` hoặc ghi vấn đề cấp ảnh; không xem nhãn của bạn để hỏi.
 - Họp nhóm ở Pha 2 và Pha 5.
 
-## AI
-
-- Được dùng AI để giải thích khái niệm, gợi ý script, sửa chính tả. Ghi cách bạn kiểm lại trong ghi chú cá nhân.
-- Day 07 dùng **người thật** quyết định và vẽ box. Pre-label bằng mô hình thuộc Day 08.
 
 ## Số liệu trung thực
 
