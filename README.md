@@ -3,8 +3,9 @@
 **Bài làm nhóm HIEUDUNG:** xem [hồ sơ bàn giao](REVIEW_START_HERE.md),
 [báo cáo QC](submission/qc/QC_REPORT.md) và
 [checklist đánh giá](submission/qc/REVIEW_CHECKLIST.md).
-Trạng thái nhãn sau sửa: **Release ở QC vòng 2**, kiểm bài **0 lỗi**; đọc giới hạn IAA độc lập trong báo cáo.
+Trạng thái nhãn sau chỉnh sửa: **Release ở QC vòng 2**, kiểm bài **0 lỗi**; vẫn cần lưu ý giới hạn IAA độc lập được nêu rõ trong báo cáo.
 
+**Tóm tắt nhanh:** Nhóm đã xây dựng lại guideline từ mức sơ sài sang mức có thể dùng được, gán nhãn độc lập trên 40 ảnh, so sánh đồng thuận, xử lý các trường hợp khó qua calibration và cuối cùng bàn giao nhãn với quyết định **Release**. Công việc tập trung vào việc làm rõ quy tắc phân loại, cách bao box và cách xử lý các ca mơ hồ như người đi xe máy, xe chở xe, vật quá nhỏ, đối tượng bị che, tượng và phản chiếu.
 
 **Nhóm 2–5 người · 4 giờ · 40 ảnh đường phố · gán box bằng CVAT**
 

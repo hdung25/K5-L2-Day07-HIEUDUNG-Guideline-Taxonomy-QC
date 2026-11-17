@@ -9,3 +9,10 @@
 5. Nếu reviewer phát hiện lỗi mới, thêm Q003..., lưu sửa đúng tên hash prepare_calibration.py, chạy build_final rồi mở round-03; không ghi đè các vòng cũ.
 6. Nếu cần đáp ứng tiêu chí gán mù độc lập của lớp, phải có lượt gán thật phù hợp coach; không thể khôi phục bằng cách đổi tên hai bản cùng nguồn.
 7. Nộp link repo/gói qua kênh coach yêu cầu. Chưa nộp LMS thay người dùng.
+
+## Còn lại trước khi nộp
+
+- [ ] Nhờ một người khác trong nhóm đánh giá chéo ảnh gốc và overlay, ưu tiên img_003, img_019, img_021, img_030 và img_032. Ghi người review bằng mã thành viên, ngày, ảnh đã kiểm và phát hiện/quyết định; nếu có lỗi mới, lưu vòng QC mới thay vì sửa snapshot cũ.
+- [ ] Hỏi coach xác nhận cách chấm tiêu chí gán độc lập khi hai bản hiện tại cùng nguồn, và liệu cần một lượt gán mù mới hay bằng chứng bổ sung nào. Lưu câu trả lời; không mô tả lại hai bản hiện tại là độc lập.
+- [ ] Dũng và Hiếu đọc phần mình phụ trách, xác nhận nội dung và báo sửa nếu có. Ghi xác nhận theo mã thành viên trong hồ sơ nhóm; không thêm thông tin cá nhân nhạy cảm vào repo.
+- [ ] Sau khi các thành viên thống nhất, nộp link repo hoặc ZIP lên LMS theo hướng dẫn của coach và xác nhận LMS đã nhận. Chưa có bằng chứng nộp trong hồ sơ này.
