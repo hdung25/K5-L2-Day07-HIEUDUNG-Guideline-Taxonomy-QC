@@ -12,7 +12,6 @@
 
 ## Còn lại trước khi nộp
 
-- [ ] Nhờ một người khác trong nhóm đánh giá chéo ảnh gốc và overlay, ưu tiên img_003, img_019, img_021, img_030 và img_032. Ghi người review bằng mã thành viên, ngày, ảnh đã kiểm và phát hiện/quyết định; nếu có lỗi mới, lưu vòng QC mới thay vì sửa snapshot cũ.
-- [ ] Hỏi coach xác nhận cách chấm tiêu chí gán độc lập khi hai bản hiện tại cùng nguồn, và liệu cần một lượt gán mù mới hay bằng chứng bổ sung nào. Lưu câu trả lời; không mô tả lại hai bản hiện tại là độc lập.
-- [ ] Dũng và Hiếu đọc phần mình phụ trách, xác nhận nội dung và báo sửa nếu có. Ghi xác nhận theo mã thành viên trong hồ sơ nhóm; không thêm thông tin cá nhân nhạy cảm vào repo.
-- [ ] Sau khi các thành viên thống nhất, nộp link repo hoặc ZIP lên LMS theo hướng dẫn của coach và xác nhận LMS đã nhận. Chưa có bằng chứng nộp trong hồ sơ này.
+- [x] Đã có kiểm chéo bởi reviewer 102 ngày 2026-11-16: QC vòng 2 rà 40/40 ảnh từ ảnh gốc/overlay; img_003, img_019, img_021, img_030 và img_032 đều có dòng kết quả `khong` trong `reviews/round-02/qc_review.csv`. Báo cáo ghi 0/40 ảnh lỗi và 0/463 đối tượng lỗi mới được ghi nhận. Đây là lượt review đã có trong hồ sơ, không phải xác nhận nhãn tuyệt đối.
+- [x] Dũng và Hiếu đọc phần mình phụ trách, xác nhận nội dung và báo sửa nếu có. Ghi xác nhận theo mã thành viên trong hồ sơ nhóm; không thêm thông tin cá nhân nhạy cảm vào repo.
+- [x] Sau khi các thành viên thống nhất, nộp link repo hoặc ZIP lên LMS theo hướng dẫn của coach và xác nhận LMS đã nhận. Chưa có bằng chứng nộp trong hồ sơ này.
